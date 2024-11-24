@@ -116,3 +116,5 @@ const checkUsersExist = async (sender_id: string, receiver_id: string): Promise<
     return false
   }
 }
+
+export {checkUsersExist}

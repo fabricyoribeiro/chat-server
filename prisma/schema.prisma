@@ -15,8 +15,11 @@ model User {
   username String @unique
   password String
 
+  contact           User[]    @relation("UserContacts")
+  
   sent_messages     Message[] @relation("SentMessages")
   received_messages Message[] @relation("ReceivedMessages")
+  User              User[]    @relation("UserContacts")
 
   @@map("user")
 }
