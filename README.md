@@ -14,6 +14,8 @@
     <li><strong>PostgreSQL</strong>: Planejado para ser o banco de dados de produção.</li>
     <li><strong>Zod</strong>: Biblioteca para validação de dados.</li>
     <li><strong>Socket.io</strong>: Biblioteca para comunicação em tempo real.</li>
+    <li><strong>JWT</strong>: Biblioteca para autenticação de usuário.</li>
+    <li><strong>Bcrypt</strong>: Biblioteca para criptografar a senha de usuário.</li>
 
   </ul>
 
