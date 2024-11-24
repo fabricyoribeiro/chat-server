@@ -13,6 +13,8 @@
     <li><strong>SQLite</strong>: Utilizado durante o desenvolvimento como banco de dados local.</li>
     <li><strong>PostgreSQL</strong>: Planejado para ser o banco de dados de produção.</li>
     <li><strong>Zod</strong>: Biblioteca para validação de dados.</li>
+    <li><strong>Socket.io</strong>: Biblioteca para comunicação em tempo real.</li>
+
   </ul>
 
   <h2>Sobre o Projeto</h2>
